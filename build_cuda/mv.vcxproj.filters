@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\libmv\multiview\fundamental.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\libmv\multiview\projection.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\libmv\multiview\five_point.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\libmv\multiview\robust_five_point.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\libmv\multiview\triangulation.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\libmv\multiview\conditioning.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\libmv\multiview\panography.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\libmv\multiview\panography_kernel.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\libmv\multiview\robust_panography.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\libmv\numeric\numeric.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\libmv\numeric\poly.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C78726F9-48B7-4375-8CA9-9E7A81AF63E1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

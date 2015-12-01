@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\akaze\lib\AKAZE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\akaze\lib\fed.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\akaze\lib\nldiffusion_functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\akaze\lib\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\akaze\lib\AKAZEConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\akaze\lib\AKAZE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\akaze\lib\fed.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\akaze\lib\nldiffusion_functions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\third_party\akaze\lib\utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C78726F9-48B7-4375-8CA9-9E7A81AF63E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{45CF682C-CBCD-41F4-9DFA-7B8228B7EB34}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

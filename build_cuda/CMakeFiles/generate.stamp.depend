@@ -1,0 +1,116 @@
+# CMake generation dependency list for this directory.
+C:/Users/dkvandyke/Source/Repos/18_OpenSFM/OpenSfM/opensfm/src/CMakeLists.txt
+C:/Users/dkvandyke/Source/Repos/18_OpenSFM/OpenSfM/opensfm/src/build_cuda/CMakeFiles/3.3.0/CMakeSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/dkvandyke/Source/Repos/18_OpenSFM/OpenSfM/opensfm/src/build_cuda/CMakeFiles/3.3.0/CMakeCCompiler.cmake
+C:/Users/dkvandyke/Source/Repos/18_OpenSFM/OpenSfM/opensfm/src/build_cuda/CMakeFiles/3.3.0/CMakeCXXCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeGenericSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/Platform/Windows.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/Platform/WindowsPaths.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/Platform/Windows-MSVC.cmake
+C:/Users/dkvandyke/Source/Repos/18_OpenSFM/OpenSfM/opensfm/src/build_cuda/CMakeFiles/3.3.0/CMakeRCCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeRCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeCXXInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindOpenMP.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindLAPACK.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckFunctionExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakePushCheckState.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindBLAS.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckFunctionExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckFortranFunctionExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakePushCheckState.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindThreads.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckIncludeFiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckLibraryExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckSymbolExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindThreads.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckIncludeFiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckLibraryExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckSymbolExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeParseArguments.cmake
+C:/Users/dkvandyke/Source/Repos/18_OpenSFM/OpenSfM/opensfm/src/cmake/FindSuiteSparse.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindBLAS.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckFunctionExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckFortranFunctionExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakePushCheckState.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindThreads.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckIncludeFiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckLibraryExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckSymbolExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindLAPACK.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckFunctionExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakePushCheckState.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindBLAS.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckFunctionExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckFortranFunctionExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakePushCheckState.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindThreads.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckIncludeFiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckLibraryExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckSymbolExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindThreads.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckIncludeFiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckLibraryExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CheckSymbolExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeParseArguments.cmake
+C:/Users/dkvandyke/Source/Repos/18_OpenSFM/OpenSfM/opensfm/src/cmake/FindEigen.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeParseArguments.cmake
+C:/Users/dkvandyke/Source/Repos/18_OpenSFM/OpenSfM/opensfm/src/cmake/FindCeres.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeParseArguments.cmake
+C:/Users/dkvandyke/Source/Repos/18_OpenSFM/OpenSfM/opensfm/src/cmake/FindGflags.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeParseArguments.cmake
+C:/Users/dkvandyke/Source/Repos/18_OpenSFM/OpenSfM/opensfm/src/cmake/FindGlog.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeParseArguments.cmake
+C:/OpenCV/opencv/build/OpenCVConfig-version.cmake
+C:/OpenCV/opencv/build/OpenCVConfig.cmake
+C:/OpenCV/opencv/build/x64/vc12/lib/OpenCVConfig.cmake
+C:/OpenCV/opencv/build/x64/vc12/lib/OpenCVModules.cmake
+C:/OpenCV/opencv/build/x64/vc12/lib/OpenCVModules-debug.cmake
+C:/OpenCV/opencv/build/x64/vc12/lib/OpenCVModules-release.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindBoost.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPythonLibs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeFindFrameworks.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeParseArguments.cmake
+C:/Users/dkvandyke/Source/Repos/18_OpenSFM/OpenSfM/opensfm/src/cmake/FindNumPy.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPythonInterp.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.3/Modules/CMakeParseArguments.cmake
