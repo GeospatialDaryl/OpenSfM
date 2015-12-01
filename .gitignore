@@ -1,18 +1,70 @@
-*.pyc
-*.so
-xcode
-.DS_Store
+*~
+bin/
+include/
+lib/
+logs/
+share/
+src/
 
+cmvs.tar.gz
+parallel.tar.bz2
+LAStools.zip
+pcl.tar.gz
+ceres-solver.tar.gz
+*.pyc
+pcl.tar.gz
+opencv.zip
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#Visual Studio files
+*.[Oo]bj
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.pyc
+*.xml
+ipch/
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+Ankh.NoLoad
+
+#Tooling
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+
+<<<<<<< HEAD
+#Project files
+[Bb]uild/
+=======
 # Ignore generated files
 /build
 /cmake_build
 .cache
+>>>>>>> b9c1e6dd5d39686823c27788b12fed4e63136e95
 
-# Ignore the data folder, but not the berlin example.
-data/*
-data/berlin/*
-!data/berlin
-!data/berlin/config.yaml
-!data/berlin/images
+#Subversion files
+.svn
 
-eval
+# Office Temp Files
+~$*
