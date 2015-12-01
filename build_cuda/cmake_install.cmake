@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/dkvandyke/Source/Repos/18_OpenSFM/OpenSfM/opensfm/src/build_cuda/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/dkvandyke/Source/Repos/18_OpenSFM/OpenSfM/build_cuda/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

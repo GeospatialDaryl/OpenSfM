@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\opensfm\src\build_cuda\CMakeFiles\4d05c89ad2f54b799ceef302e5393c72\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\dkvandyke\Source\Repos\18_OpenSFM\OpenSfM\build_cuda\CMakeFiles\ba978fcf21af325ddca5a6311b0c9fd6\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
